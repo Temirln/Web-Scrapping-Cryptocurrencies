@@ -8,8 +8,11 @@ python -m pip install requests
 # Examples
 
 1)bitcoin
+
 2)ethereum
+
 3)cardano
+
 Choose your crypto:
 cardano
 
